@@ -1,0 +1,85 @@
+{
+    "results":[
+      {
+        "category":"Entertainment: Film",
+        "type":"multiple",
+        "difficulty":"easy",
+        "question":"Which animated movie was first to feature a celebrity as a voice actor?",
+        "correct_answer":"Aladdin",
+        "answers":["Aladdin","Toy Story","James and the Giant Peach","The Hunchback of Notre Dame"],
+        "solved":false
+      },
+      {"category":"Entertainment: Books",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"How many books are in the Chronicles of Narnia series?",
+      "correct_answer":"7",
+      "answers":["6","7","8","5"],
+      "solved":false
+      },
+      {"category":"Science & Nature",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"Which of the following blood vessels carries deoxygenated blood?",
+      "correct_answer":"Pulmonary Artery",
+      "answers":["Pulmonary Artery","Pulmonary Vein","Aorta","Coronary Artery"],
+      "solved":false
+      },
+      {"category":"History",
+      "type":"multiple",
+      "difficulty":"medium",
+      "question":"What nationality was sultan Saladin?",
+      "correct_answer":"Kurdish",
+      "answers":["Arab","Kurdish","Egyptian","Syrian"],
+      "solved":false
+      },
+      {"category":"History",
+      "type":"multiple",
+      "difficulty":"easy",
+      "question":"How was Socrates executed?",
+      "correct_answer":"Poison",
+      "answers":["Decapitation","Firing squad","Crucifixion","Poison"],
+      "solved":false
+      },
+      {"category":"Entertainment: Video Games",
+        "type":"multiple",
+        "difficulty":"hard",
+        "question":"When was the first Call of Duty title released?",
+        "correct_answer":"October 29, 2003",
+        "answers":["December 1, 2003","November 14, 2002","July 18, 2004","October 29, 2003"],
+        "solved":false
+      },
+      {"category":"Mythology",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+        "correct_answer":"A Horse",
+        "answers":["A Horse","A Dragon","A Tiger","A Lion"],
+        "solved":false
+      },
+      {"category":"Science: Computers",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"In programming, what do you call functions with the same name but different implementations?",
+        "correct_answer":"Overloading",
+        "answers":["Overriding","Overloading","Abstracting","Inheriting"],
+        "solved":false
+      },
+      {"category":"Science: Mathematics",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"Which mathematician refused the Fields Medal?",
+        "correct_answer":"Grigori Perelman",
+        "answers":["Andrew Wiles","Terence Tao","Grigori Perelman","Edward Witten"],
+        "solved":false
+      },
+      {"category":"Entertainment: Cartoon & Animations",
+        "type":"multiple",
+        "difficulty":"medium",
+        "question":"In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+        "correct_answer":"Myrtenaster",
+        "answers":["Gambol Shroud","Crescent Rose","Ember Celica","Myrtenaster"],
+        "solved":false
+      }
+    ]
+  }
